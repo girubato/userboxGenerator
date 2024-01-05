@@ -4,6 +4,12 @@ A userbox typically refers to a small, customizable graphical element that users
 
 With this userbox generating app, a user can easily create userboxes with custom text, colors, and an image!
 
+### Example of a downloaded result
+![alt text](result.png "Result")
+
+### App Preview
+![alt text](preview.png "App preview")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
