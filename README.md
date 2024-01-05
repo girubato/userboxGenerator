@@ -1,3 +1,9 @@
+# Userbox Generator
+
+A userbox typically refers to a small, customizable graphical element that users can display on their profiles or pages on various online platforms. These userboxes are often used on social media websites, forums, or other community-driven platforms to express personal interests, affiliations, or characteristics.
+
+With this userbox generating app, a user can easily create userboxes with custom text, colors, and an image!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
